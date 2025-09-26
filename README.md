@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/felix-devx/felix-devx/refs/heads/main/accessories.svg" alt="My developer accessories" width="100%"/>
+  <img src="https://raw.githubusercontent.com/felix-devx/felix-devx/refs/heads/main/stuff.svg" alt="My developer accessories" width="100%"/>
 </div>
 
 # Hi There! I'm Felix
