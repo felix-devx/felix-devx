@@ -6,6 +6,7 @@ I work with:<br>
 ![](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![](https://img.shields.io/badge/FOSS-286e17?style=for-the-badge&logoColor=white)
 
 I'm from India and I mostly do FOSS development. Contact me in:<br>
 [![Follow and chat on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/felix_devx)
